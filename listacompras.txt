@@ -1,6 +1,10 @@
-- leche
-- pan
-- lechuga
-- tomate
-- cebolla
-- queso cremoso
+- Leche
+- Pan
+- Lechuga
+- Tomate
+- Cebolla
+- Queso Cremoso
+- Huevos
+- Harina
+- Aceite
+- Vinagre
